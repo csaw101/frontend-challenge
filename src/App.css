@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  /*text-align: center;*/
+  font-size: 1.3rem;
+  background-color: #ddd;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  color: #28231d;
+  user-select: none;
+}
+
+.todo-header {
+  font-weight: bold;
+  margin: 1rem;
+}
+
