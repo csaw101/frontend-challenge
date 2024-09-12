@@ -9,7 +9,7 @@
 - RecoilJS
 
 ## Running and building
-```
+```bash
 nx start # run application
 nx build # build application
 ```
