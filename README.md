@@ -1,6 +1,6 @@
 # TODO Application
 
-![image](https://imgur.com/a/4uDyoZ7)
+![image](https://i.imgur.com/8XxOOhK.png)
 
 ## Tech used
 - nx
