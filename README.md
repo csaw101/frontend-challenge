@@ -1,6 +1,6 @@
 # TODO Application
 
-![image](https://i.imgur.com/8XxOOhK.png)
+<img src="https://i.imgur.com/8XxOOhK.png" width="300" />
 
 ## Tech used
 - nx
@@ -9,5 +9,7 @@
 - RecoilJS
 
 ## Running and building
-```nx start```
-```nx build```
+```
+nx start # run application
+nx build # build application
+```
